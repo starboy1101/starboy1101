@@ -122,14 +122,14 @@ I’m based in Pune, India, and interested in AI/ML, Generative AI, Python, and 
   <a href="https://github.com/starboy1101"><strong>GitHub</strong></a>
 </p>
 
-<details>
-<summary><strong>GitHub activity</strong></summary>
-<br />
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=starboy1101&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Omkar's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starboy1101&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Omkar's most used languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=starboy1101&amp;theme=tokyonight" alt="Omkar's GitHub statistics" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=starboy1101&amp;theme=tokyonight" alt="Repositories by language" />
 </p>
-</details>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starboy1101&amp;theme=tokyonight" alt="Omkar's GitHub profile details" />
+</p>
 
 ## Contributions in motion
 
